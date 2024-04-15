@@ -6,9 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AE0565A-0CEA-4878-B0C1-8BA0F3A98FCD}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCode Tests", "CustomCode Tests\CustomCode Tests.csproj", "{62B6E7B2-7E00-4FC0-8803-4046E797DED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCode Tests", "CustomCode Tests\CustomCode Tests.csproj", "{62B6E7B2-7E00-4FC0-8803-4046E797DED1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomConnector", "CustomConnector\CustomConnector.msbuildproj", "{F8FE52F6-70B4-484E-8C06-98DA08CC7DE5}"
 EndProject
