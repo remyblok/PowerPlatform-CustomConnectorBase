@@ -1,0 +1,13 @@
+﻿[*.cs]
+# CA2007: Consider calling ConfigureAwait on the awaited task
+dotnet_diagnostic.CA2007.severity = error
+
+[*.json]
+indent_style = space
+tab_width = 2
+indent_size = 2
+end_of_line = crlf
+
+# do not remove unused usings
+[GlobalUsings.cs]
+generated_code = true

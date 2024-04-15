@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "connectionParameters": {},
+    "iconBrandColor": "#ffffff",
+    "scriptOperations": [ "OperationId" ],
+    "capabilities": [],
+    "publisher": "",
+    "stackOwner": ""
+  }
+}
